@@ -16,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="StreamsTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ru/kirillch/streams/StreamsTest.java">
+      <file leaf-file-name="JsonPojoTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/kirillch/jsonpojo/JsonPojoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="216">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -51,8 +51,10 @@
         <option value="$PROJECT_DIR$/src/test/java/ru/kirillch/streams/services/DataService.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/kirillch/streams/beans/Person.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/kirillch/streams/beans/P2.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/ru/kirillch/streams/StreamsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/kirillch/jsonpojo/StreamsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/kirillch/jsonpojo/JsonPojoTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -69,8 +71,24 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="jsonpojo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="jsonpojo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="430" />
+    <option name="x" value="130" />
     <option name="y" value="23" />
     <option name="width" value="1437" />
     <option name="height" value="983" />
@@ -90,53 +108,47 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="streams" type="b2602c69:ProjectViewProjectNode" />
-              <item name="streams" type="462c0819:PsiDirectoryNode" />
+              <item name="json-to-pojo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="json-to-pojo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="streams" type="b2602c69:ProjectViewProjectNode" />
-              <item name="streams" type="462c0819:PsiDirectoryNode" />
+              <item name="json-to-pojo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="json-to-pojo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="streams" type="b2602c69:ProjectViewProjectNode" />
-              <item name="streams" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="streams" type="b2602c69:ProjectViewProjectNode" />
-              <item name="streams" type="462c0819:PsiDirectoryNode" />
+              <item name="json-to-pojo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="json-to-pojo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="streams" type="b2602c69:ProjectViewProjectNode" />
-              <item name="streams" type="462c0819:PsiDirectoryNode" />
+              <item name="json-to-pojo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="json-to-pojo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="streams" type="b2602c69:ProjectViewProjectNode" />
-              <item name="streams" type="462c0819:PsiDirectoryNode" />
+              <item name="json-to-pojo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="json-to-pojo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="streams" type="462c0819:PsiDirectoryNode" />
+              <item name="jsonpojo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -172,24 +184,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StreamsTest.checkGettingJsonData">
-    <configuration name="StreamsTest.checkGettingJsonData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.JsonPojoTest.checkGettingJsonData">
+    <configuration name="JsonPojoTest.checkGettingJsonData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ru.kirillch.streams.*" />
+          <option name="PATTERN" value="ru.kirillch.jsonpojo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="streams" />
+      <module name="jsonpojo" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ru.kirillch.streams" />
-      <option name="MAIN_CLASS_NAME" value="ru.kirillch.streams.StreamsTest" />
+      <option name="PACKAGE_NAME" value="ru.kirillch.jsonpojo" />
+      <option name="MAIN_CLASS_NAME" value="ru.kirillch.jsonpojo.JsonPojoTest" />
       <option name="METHOD_NAME" value="checkGettingJsonData" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
@@ -198,18 +210,18 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="StreamsTest.checkJson" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="JsonPojoTest.checkJson" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ru.kirillch.streams.*" />
+          <option name="PATTERN" value="ru.kirillch.jsonpojo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="streams" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ru.kirillch.streams" />
-      <option name="MAIN_CLASS_NAME" value="ru.kirillch.streams.StreamsTest" />
+      <option name="PACKAGE_NAME" value="ru.kirillch.jsonpojo" />
+      <option name="MAIN_CLASS_NAME" value="ru.kirillch.jsonpojo.JsonPojoTest" />
       <option name="METHOD_NAME" value="checkJson" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
@@ -249,6 +261,57 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="streams" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="streams" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="streams" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -272,6 +335,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="streams" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="streams" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -280,6 +368,24 @@
       <method>
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="streams" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -311,14 +417,73 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="streams" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="streams" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="streams" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="streams" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
     <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.StreamsTest.checkJson" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.StreamsTest.checkGettingJsonData" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.JsonPojoTest.checkJson" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.JsonPojoTest.checkGettingJsonData" />
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.StreamsTest.checkGettingJsonData" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.StreamsTest.checkJson" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.JsonPojoTest.checkGettingJsonData" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.JsonPojoTest.checkJson" />
       </list>
     </recent_temporary>
   </component>
@@ -336,11 +501,16 @@
       <option name="presentableId" value="Default" />
       <updated>1561105075609</updated>
       <workItem from="1561105081540" duration="87000" />
-      <workItem from="1561105202399" duration="6009000" />
+      <workItem from="1561105202399" duration="6606000" />
+      <workItem from="1561145930574" duration="200000" />
+      <workItem from="1561146191943" duration="30000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
+    <history-entry file="JsonPojoTest_checkGettingJsonData - 2019.06.21 at 22h 43m 26s.xml">
+      <configuration name="JsonPojoTest.checkGettingJsonData" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="StreamsTest_checkGettingJsonData - 2019.06.21 at 12h 22m 00s.xml">
       <configuration name="StreamsTest.checkGettingJsonData" configurationId="JUnit" />
     </history-entry>
@@ -362,9 +532,6 @@
     <history-entry file="StreamsTest_checkGettingJsonData - 2019.06.21 at 22h 01m 45s.xml">
       <configuration name="StreamsTest.checkGettingJsonData" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StreamsTest_checkJson - 2019.06.21 at 12h 16m 10s.xml">
-      <configuration name="StreamsTest.checkJson" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="StreamsTest_checkJson - 2019.06.21 at 12h 18m 14s.xml">
       <configuration name="StreamsTest.checkJson" configurationId="JUnit" />
     </history-entry>
@@ -373,32 +540,32 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6096000" />
+    <option name="totallyTimeSpent" value="6923000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="430" y="23" width="1437" height="983" extended-state="0" />
+    <frame x="130" y="23" width="1437" height="983" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32870865" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32870865" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993445" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3765281" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4129643" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4129643" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -413,127 +580,96 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/kirillch/jsonpojo/JsonPojoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/kirillch/jsonpojo/JsonPojoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1561141784000" expanded="true" signature="89:1629" ph="..." />
-            <marker date="1561141784000" expanded="true" signature="420:783" ph="..." />
-            <marker date="1561141784000" expanded="true" signature="438:770" ph="..." />
-            <marker date="1561141784000" expanded="true" signature="459:751" ph="..." />
-            <marker date="1561141784000" expanded="true" signature="614:729" ph="..." />
-            <marker date="1561141784000" expanded="true" signature="803:1617" ph="..." />
-            <marker date="1561141784000" expanded="true" signature="824:1009" ph="..." />
-            <marker date="1561141784000" expanded="true" signature="1030:1200" ph="..." />
-            <marker date="1561141784000" expanded="true" signature="1222:1371" ph="..." />
-            <marker date="1561141784000" expanded="true" signature="1392:1595" ph="..." />
+            <marker date="1561145984000" expanded="true" signature="89:1630" ph="..." />
+            <marker date="1561145984000" expanded="true" signature="421:784" ph="..." />
+            <marker date="1561145984000" expanded="true" signature="439:771" ph="..." />
+            <marker date="1561145984000" expanded="true" signature="460:752" ph="..." />
+            <marker date="1561145984000" expanded="true" signature="615:730" ph="..." />
+            <marker date="1561145984000" expanded="true" signature="804:1618" ph="..." />
+            <marker date="1561145984000" expanded="true" signature="825:1010" ph="..." />
+            <marker date="1561145984000" expanded="true" signature="1031:1201" ph="..." />
+            <marker date="1561145984000" expanded="true" signature="1223:1372" ph="..." />
+            <marker date="1561145984000" expanded="true" signature="1393:1596" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/kirillch/streams/mockdata/DataService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="24" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/kirillch/streams/mockdata/DataService.java" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/people.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/kirillch/jsonpojo/services/DataService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="15" lean-forward="false" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
           <folding>
-            <marker date="1561105373000" expanded="true" signature="0:135017" ph="[...]" />
+            <marker date="1561145859000" expanded="true" signature="47:354" ph="..." />
+            <marker date="1561145859000" expanded="true" signature="455:766" ph="{...}" />
+            <marker date="1561145859000" expanded="true" signature="700:711" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/kirillch/streams/beans/P2.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/kirillch/jsonpojo/beans/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="105" column="18" lean-forward="false" selection-start-line="105" selection-start-column="18" selection-end-line="105" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="35" column="8" lean-forward="false" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+        <state relative-caret-position="168">
+          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
           <folding>
-            <marker date="1561141784000" expanded="true" signature="89:1629" ph="..." />
-            <marker date="1561141784000" expanded="true" signature="420:783" ph="..." />
-            <marker date="1561141784000" expanded="true" signature="438:770" ph="..." />
-            <marker date="1561141784000" expanded="true" signature="459:751" ph="..." />
-            <marker date="1561141784000" expanded="true" signature="614:729" ph="..." />
-            <marker date="1561141784000" expanded="true" signature="803:1617" ph="..." />
-            <marker date="1561141784000" expanded="true" signature="824:1009" ph="..." />
-            <marker date="1561141784000" expanded="true" signature="1030:1200" ph="..." />
-            <marker date="1561141784000" expanded="true" signature="1222:1371" ph="..." />
-            <marker date="1561141784000" expanded="true" signature="1392:1595" ph="..." />
+            <marker date="1561145984000" expanded="true" signature="89:1630" ph="..." />
+            <marker date="1561145984000" expanded="true" signature="421:784" ph="..." />
+            <marker date="1561145984000" expanded="true" signature="439:771" ph="..." />
+            <marker date="1561145984000" expanded="true" signature="460:752" ph="..." />
+            <marker date="1561145984000" expanded="true" signature="615:730" ph="..." />
+            <marker date="1561145984000" expanded="true" signature="804:1618" ph="..." />
+            <marker date="1561145984000" expanded="true" signature="825:1010" ph="..." />
+            <marker date="1561145984000" expanded="true" signature="1031:1201" ph="..." />
+            <marker date="1561145984000" expanded="true" signature="1223:1372" ph="..." />
+            <marker date="1561145984000" expanded="true" signature="1393:1596" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/kirillch/streams/services/DataService.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/kirillch/jsonpojo/JsonPojoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="22" column="15" lean-forward="false" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
-          <folding>
-            <marker date="1561109954000" expanded="true" signature="46:352" ph="..." />
-            <marker date="1561109954000" expanded="true" signature="453:764" ph="{...}" />
-            <marker date="1561109954000" expanded="true" signature="698:709" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/kirillch/streams/beans/P2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/kirillch/streams/beans/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="105" column="18" lean-forward="false" selection-start-line="105" selection-start-column="18" selection-end-line="105" selection-end-column="18" />
-          <folding>
-            <marker date="1561110103000" expanded="true" signature="44:128" ph="..." />
-            <marker date="1561110103000" expanded="true" signature="130:285" ph="@{...}" />
-            <marker date="1561110103000" expanded="false" signature="731:747" ph="&lt;~&gt;" />
-            <marker date="1561110103000" expanded="false" signature="802:813" ph=" { " />
-            <marker date="1561110103000" expanded="false" signature="823:829" ph=" }" />
-            <marker date="1561110103000" expanded="false" signature="888:899" ph=" { " />
-            <marker date="1561110103000" expanded="false" signature="912:918" ph=" }" />
-            <marker date="1561110103000" expanded="false" signature="984:995" ph=" { " />
-            <marker date="1561110103000" expanded="false" signature="1012:1018" ph=" }" />
-            <marker date="1561110103000" expanded="false" signature="1098:1109" ph=" { " />
-            <marker date="1561110103000" expanded="false" signature="1136:1142" ph=" }" />
-            <marker date="1561110103000" expanded="false" signature="1206:1217" ph=" { " />
-            <marker date="1561110103000" expanded="false" signature="1233:1239" ph=" }" />
-            <marker date="1561110103000" expanded="false" signature="1316:1327" ph=" { " />
-            <marker date="1561110103000" expanded="false" signature="1352:1358" ph=" }" />
-            <marker date="1561110103000" expanded="false" signature="1415:1426" ph=" { " />
-            <marker date="1561110103000" expanded="false" signature="1439:1445" ph=" }" />
-            <marker date="1561110103000" expanded="false" signature="1512:1523" ph=" { " />
-            <marker date="1561110103000" expanded="false" signature="1542:1548" ph=" }" />
-            <marker date="1561110103000" expanded="false" signature="1607:1618" ph=" { " />
-            <marker date="1561110103000" expanded="false" signature="1632:1638" ph=" }" />
-            <marker date="1561110103000" expanded="false" signature="1708:1719" ph=" { " />
-            <marker date="1561110103000" expanded="false" signature="1740:1746" ph=" }" />
-            <marker date="1561110103000" expanded="false" signature="1812:1823" ph=" { " />
-            <marker date="1561110103000" expanded="false" signature="1840:1846" ph=" }" />
-            <marker date="1561110103000" expanded="false" signature="1926:1937" ph=" { " />
-            <marker date="1561110103000" expanded="false" signature="1964:1970" ph=" }" />
-            <marker date="1561110103000" expanded="false" signature="2047:2058" ph=" { " />
-            <marker date="1561110103000" expanded="false" signature="2091:2097" ph=" }" />
-            <marker date="1561110103000" expanded="false" signature="2182:2193" ph=" { " />
-            <marker date="1561110103000" expanded="false" signature="2236:2242" ph=" }" />
-            <marker date="1561110103000" expanded="true" signature="2287:2687" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/kirillch/streams/StreamsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="216">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

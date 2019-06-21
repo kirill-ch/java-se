@@ -7,10 +7,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="jsonpojo" />
         <module name="streams" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="jsonpojo" target="1.8" />
       <module name="streams" target="1.8" />
     </bytecodeTargetLevel>
   </component>
