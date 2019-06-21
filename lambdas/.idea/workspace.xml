@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6fec6cf1-3cf0-4e11-9336-bff878819a48" name="Default" comment="" />
+    <list default="true" id="04e01766-a411-48fd-8b65-fbe7996240eb" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -59,21 +59,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="json-to-pojo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="json-to-pojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -238,18 +228,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6fec6cf1-3cf0-4e11-9336-bff878819a48" name="Default" comment="" />
-      <created>1561147887270</created>
+      <changelist id="04e01766-a411-48fd-8b65-fbe7996240eb" name="Default" comment="" />
+      <created>1561148038563</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1561147887270</updated>
-      <workItem from="1561147888608" duration="3000" />
-      <workItem from="1561147893610" duration="117000" />
+      <updated>1561148038563</updated>
+      <workItem from="1561148039743" duration="4000" />
+      <workItem from="1561148047164" duration="14000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120000" />
+    <option name="totallyTimeSpent" value="18000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="130" y="23" width="1437" height="983" extended-state="0" />
@@ -288,14 +278,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/json-to-pojo.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
