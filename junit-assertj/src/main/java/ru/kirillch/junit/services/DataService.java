@@ -27,6 +27,10 @@ public class DataService {
 
     public static int findMaxByStreams(List<Integer> numbers) throws Exception {
 
+        if (numbers == null || numbers.size() == 0) {
+            throw new Exception("List of numbers is empty");
+        }
+
         Integer max = numbers.stream().max(Comparator.naturalOrder())
                 .orElseThrow(() -> new Exception("List of numbers is empty"));
 
